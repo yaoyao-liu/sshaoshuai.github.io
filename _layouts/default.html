@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    <style type="text/css">
+        .container {
+            zoom: 1;
+            margin-left: auto;
+            margin-right: auto;
+            vertical-align: middle;
+            text-align: left;
+            width: 100%;
+            max-width: 800px;
+        }
+        .content {
+            margin-bottom: -10px;
+            display: inline-block;
+            display*: inline;
+            width: 100%;
+        }
+        a {
+          color: #1772d0;
+          text-decoration: none;
+          transition: 0.3s all cubic-bezier(0.42, 0, 0.57, 1.96);
+        }
+    
+        a:focus,
+        a:hover{
+          color: rgb(252, 76, 122);
+          border-color: rgb(252, 76, 122);
+        }
+    </style>
+    <title>{{ site.title }}</title>
+  </head>
+  <body>
+    <div class="container">
+        {{ content }}
+    </div>
+  </body>
+</html>
