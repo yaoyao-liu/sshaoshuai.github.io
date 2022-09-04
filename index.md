@@ -38,7 +38,6 @@ My research interests focus on computer vision and deep learning, especially the
 
 ## News
 <hr style="margin-top:-16px;margin-bottom:10px;" /> 
-
 * [2022/07] One paper accepted by ECCV 2022.
 * [2022/06] Champion of [Waymo Open Dataset Motion Prediction challenge 2022](https://waymo.com/open/challenges/). More details will be released soon. 
 * [2022/03] One paper accepted by CVPR 2022.
@@ -296,10 +295,7 @@ Advised by Prof. Ningyi Xu.
 <hr />
 
 <div style="margin:10px auto;height: 150px; pointer-events: none;">
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&cl=ffffff&w=a"></script> -->
-<!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=b8b8b8&w=300&t=n&d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&co=ffffff&cmo=fc1a0b&cmn=21c983&ct=827d7d"></script> -->
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=1daeff&w=480&t=tt&d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&ct=858585&co=ffffff&cmn=1bff1b"></script>
-<!-- <a href="https://clustrmaps.com/site/1apwn" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=59bdf5&w=300&t=tt&d=dna1gh75RFxuLTLMZdN7u5SSyiCEmnOtvSjR75TKtTQ&co=ffffff&ct=b8b3b3" /></a> -->
 </div>
 <br/>
 <hr style="margin-top:80px;margin-bottom:10px;" />
