@@ -149,15 +149,14 @@ Jihan Yang, <b>Shaoshuai Shi</b>, Runyu Ding, Zhe Wang, Xiaojuan Qi
 * [MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979)  
 Xuesong Chen\*, <b>Shaoshuai Shi\*†</b>, Benjin Zhu, Ka Chun Cheung, Hang Xu, Hongsheng Li†  
 *European Conference on Computer Vision (ECCV), 2022.*
-[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>  
+&nbsp;[[Code]](https://github.com/open-mmlab/OpenPCDet) &nbsp;<a href="https://github.com/open-mmlab/OpenPCDet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/open-mmlab/OpenPCDet?style=social"> </a>  
 <span style="color: #FF0000">Ranked 1st place on Waymo 3D object detection leaderboard (June, 2022).</span>
 
 
 * [RBGNet: Ray-based Grouping for 3D Object Detection](https://arxiv.org/abs/2204.02251)  
 Haiyang Wang, <b>Shaoshuai Shi† </b>, Ze Yang, Rongyao Fang, Qi Qian, Hongsheng Li, Bernt Schiele, Liwei Wang  
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.* 
-&nbsp; [[Code]](https://github.com/Haiyang-W/RBGNet) &nbsp; <a href="https://github.com/Haiyang-W/RBGNet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/RBGNet?style=social"> </a> 
-
+&nbsp;[[Code]](https://github.com/Haiyang-W/RBGNet) &nbsp; <a href="https://github.com/Haiyang-W/RBGNet"><img alt="GitHub stars" style="vertical-align:middle" src="https://img.shields.io/github/stars/Haiyang-W/RBGNet?style=social"> </a> 
 
 
 <!-- **2021:** -->
